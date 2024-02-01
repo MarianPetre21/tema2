@@ -8,25 +8,20 @@ Deployment
 
 
 Planning:
-
-  In aceasta prima etapa se realizeaza colaborarea cu clientul pentru a obtine o imagine clara asupra cerintelor,documentarea acestora.Se definesc obiectivele si se stabilesc resursele( echipa si costurile).Se incearca gasirea de solutii alternative si se cauta posibilitatea obtinerii unui produs superior fata de cel oferit de catre competenta.
+In aceasta prima etapa se realizeaza colaborarea cu clientul pentru a obtine o imagine clara asupra cerintelor,documentarea acestora.Se definesc obiectivele si se stabilesc resursele( echipa si costurile).Se incearca gasirea de solutii alternative si se cauta posibilitatea obtinerii unui produs superior fata de cel oferit de catre competenta.
 
 Design:
-
- Se defineste arhitectura generala,se stabileste design-ul sistemului pt a obtine cerintele clientului si se creeaza un design detaliat pentru fiecare componenta a sistemului,se definesc interfete intre diferite componente,module,tipuri de date.
+Se defineste arhitectura generala,se stabileste design-ul sistemului pt a obtine cerintele clientului si se creeaza un design detaliat pentru fiecare componenta a sistemului,se definesc interfete intre diferite componente,module,tipuri de date.
 
 
 Development:
-
- Se urmareste implementarea efectiva a sistemului cu ajutorul programarii:se scriu codurile pentru partile de front-end si back-end,se testeaza fiecare modul si se urmareste integrarea cu celelalte module.
+Se urmareste implementarea efectiva a sistemului cu ajutorul programarii:se scriu codurile pentru partile de front-end si back-end,se testeaza fiecare modul si se urmareste integrarea cu celelalte module.
 
 Testing:
-
-   Se verifica si se valideaza corectitudinea si eficienta sistemului.Prin intermediul planurilor si scenariilor de testare se identifica si se corecteaza erorile(bug)si se asigura calitatea produsului.
+Se verifica si se valideaza corectitudinea si eficienta sistemului.Prin intermediul planurilor si scenariilor de testare se identifica si se corecteaza erorile(bug)si se asigura calitatea produsului.
 
 Deployment:
-   
-   In aceasta etapa se lanseaza si se distribuie  produsul.Se configureaza si se instaleaza mediul de productie,se acorda suport pana la sfarsitul ciclului de viata al produsului.
+In aceasta etapa se lanseaza si se distribuie  produsul.Se configureaza si se instaleaza mediul de productie,se acorda suport pana la sfarsitul ciclului de viata al produsului.
 
 
 
